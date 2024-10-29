@@ -1,0 +1,11 @@
+ID,Idade,Salario_Anual,Genero,Ocupacao,Numero_Contas,Cidade,Score_Credito
+1,34,45000,Feminino,Engenheira,2,São Paulo,720
+2,45,55000,Masculino,Professor,3,Rio de Janeiro,680
+3,23,32000,Feminino,Designer,1,São Paulo,600
+4,52,76000,Masculino,Medico,5,Belo Horizonte,790
+5,29,50000,Feminino,Advogada,3,Curitiba,700
+6,41,59000,Masculino,Engenheiro,4,São Paulo,740
+7,33,35000,Feminino,Publicitária,2,Porto Alegre,640
+8,27,42000,Masculino,Desenvolvedor,1,Rio de Janeiro,710
+9,60,120000,Feminino,Executiva,6,São Paulo,800
+10,38,52000,Masculino,Gerente,3,Curitiba,690
